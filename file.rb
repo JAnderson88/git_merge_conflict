@@ -1,3 +1,3 @@
-"hello, Jeremy"
+"hello, Jermy"
 
-"hello, Jess"
+"hello, Jes"
